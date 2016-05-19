@@ -1,2 +1,2 @@
 # PHMM
-Profile H
+Profile Hidden Markov model for biological sequence analysis
